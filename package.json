@@ -4,3 +4,5 @@
   "repository": "snapshot-labs/snapshot-hub",
   "license": "MIT",
   "scripts": {
+  "lint": "eslint . --ext .ts --fix",
+    "dev": "nodemon src/index.ts",
