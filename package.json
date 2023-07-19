@@ -11,3 +11,4 @@
   "eslintConfig": {
     "extends": "@snapshot-labs"
   },
+"prettier": "@snapshot-labs/prettier-config",
