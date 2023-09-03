@@ -9,3 +9,5 @@
    "start": "ts-node src/index.ts"
  },
   "eslintConfig": {
+   "extends": "@snapshot-labs"
+  },
