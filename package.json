@@ -13,3 +13,4 @@
   },
  "prettier": "@snapshot-labs/prettier-config",
  "dependencies": {
+ "@ethersproject/address": "^5.0.1",
