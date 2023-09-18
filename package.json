@@ -22,3 +22,5 @@
     "@snapshot-labs/pineapple": "^0.1.0-beta.1",
   "@snapshot-labs/snapshot.js": "^0.4.105",
     "bluebird": "^3.7.2",
+ "connection-string": "^1.0.1",
+    "cors": "^2.8.5",
