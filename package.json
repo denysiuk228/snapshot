@@ -34,3 +34,5 @@
   "graphql-query-count-limit": "^1.0.0",
  "graphql-tools": "^9.0.0",
     "lodash": "^4.17.21",
+ "mysql": "^2.18.1",
+    "rate-limit-redis": "^3.0.2",
