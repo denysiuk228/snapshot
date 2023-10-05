@@ -54,3 +54,4 @@
  "nodemon": "^2.0.19",
  "prettier": "^2.8.0",
     "start-server-and-test": "^2.0.0",
+"supertest": "^6.3.3",
