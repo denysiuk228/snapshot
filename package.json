@@ -8,3 +8,5 @@
     "dev": "nodemon src/index.ts",
   "build": "tsc && copyfiles src/graphql/*.gql dist/",
     "start": "node dist/src/index.js",
+  "start:test": "dotenv -e test/.env.test yarn dev",
+    "test": "PORT=3030 start-server-and-test 'yarn start:test' 3030 'dotenv -e test/.env.test jest --runInBand'",
