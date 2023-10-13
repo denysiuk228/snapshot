@@ -12,3 +12,8 @@
     "test": "PORT=3030 start-server-and-test 'yarn start:test' 3030 'dotenv -e test/.env.test jest --runInBand'",
    "test:unit": "dotenv -e test/.env.test jest test/unit/",
     "test:e2e": "PORT=3030 start-server-and-test 'yarn start:test' 3030 'dotenv -e test/.env.test jest --runInBand --collectCoverage=false test/e2e/'"
+ },
+  "eslintConfig": {
+    "extends": "@snapshot-labs"
+  },
+  "prettier": "@snapshot-labs/prettier-config",
