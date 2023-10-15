@@ -17,3 +17,5 @@
     "extends": "@snapshot-labs"
   },
   "prettier": "@snapshot-labs/prettier-config",
+ "dependencies": {
+    "@snapshot-labs/keycard": "^0.4.0",
