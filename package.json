@@ -24,3 +24,4 @@
  "@snapshot-labs/snapshot-sentry": "^1.5.2",
   "@snapshot-labs/snapshot.js": "^0.8.1",
     "bluebird": "^3.7.2",
+ "connection-string": "^1.0.1",
