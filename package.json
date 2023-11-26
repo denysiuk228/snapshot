@@ -33,3 +33,4 @@
     "graphql": "^15.8.0",
  "graphql-depth-limit": "^1.1.0",
     "graphql-fields": "^2.0.3",
+"graphql-query-count-limit": "^1.0.0",
